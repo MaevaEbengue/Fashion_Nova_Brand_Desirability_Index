@@ -14,7 +14,7 @@ Le processus du projet est divisé en trois parties : nettoyage des données, an
 
 Cette analyse répondra aux questions suivantes : 
 
-##Desciption du Dataset
+#Dataset : fashionnova_reviews.csv Download on Kaggle website 
 
  
 
