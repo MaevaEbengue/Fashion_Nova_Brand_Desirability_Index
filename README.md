@@ -1,5 +1,5 @@
 # Fashion Nova Brand Desirability Index
-**Hello ! **
+**Hello !**
 
 **[EN]**: This project aims to create a desirability index for the Fashion Nova brand by analyzing sentiment on social media, forums, news articles, and search trends. This index will measure the brand's popularity and appeal, helping companies track their market position.
 
