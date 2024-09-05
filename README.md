@@ -36,6 +36,8 @@ Cette analyse répondra aux questions suivantes :
 
 ### Dataset : fashionnova_reviews.csv Download on Kaggle website 
 
+###Interpretations des résultats à venir
+
 
  
 
